@@ -13,4 +13,3 @@ una pokedex creada con la libreria React, para consumir la API de pokemon[PokeAP
 `npm run build`
 
 > Compilar los archivos del proyecto en una version optimizada para ser puesta en un servidor de produccion.
-
